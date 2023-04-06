@@ -1,0 +1,11 @@
+The code is a data structure of a class called Dog with the attributes age, breed, 
+weight and height. From this, another structure called Tiburon is created, which inherits 
+the attributes of the dog class and the weight attribute is added. 
+From there, only these structures are created and the data of each attribute is added to 
+print it on the screen.
+
+El código es una estructura de datos de una clase llamada Perro con los atributos edad, raza,
+peso y estatura. A partir de esta se crea otro estructura llamada Tiburon la cual hereda los atributos
+de la clase perro y se le agrega el atributo peso. 
+A partir de ahí solo se crean dichas estructuras y se le agregan los datos de cada atributo para 
+posteriormente imprimirlo en pantalla. 

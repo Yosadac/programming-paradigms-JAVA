@@ -1,0 +1,8 @@
+The code is a simple data structure of a dog class that has the attributes breed, 
+age and barking. Where the user enters if he wants the dog to bark or not and based 
+on that the "barking" attribute is modified. the "barking" attribute is modified based on that. 
+
+
+El código es una estructura de datos simple de una clase perro que tiene los atributos
+raza, edad y ladrando. Donde el usuario ingresa si quiere que el perro ladre o no y en base a 
+ello se modifica el atributo "ladrando". 
