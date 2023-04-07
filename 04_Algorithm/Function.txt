@@ -1,0 +1,9 @@
+The code counts the number of each letter in a string of characters. To do this, the user enters a 
+string of characters which will be compared with another string where all the letters of the alphabet 
+are found and increases the counter by 1, if when the counter is greater than 0, it prints the letter 
+and the number of times it appeared.
+
+El código cuente la cantidad de cada letra en una cadena de caracteres. Para ello, el usuario ingresa
+una cadena de caracteres la cual va a comparar con otra cadena donde se encuentran todas las letras
+del abecedaroio y va aumentando en 1 el contador, si cuando termina de recorrer toda la cadena de 
+caracteres el contador es mayor a 0, imprime la letra y el número de veces que apareció

@@ -1,0 +1,7 @@
+The code simulates a library service where you can add books, delete books, show available books, 
+borrow books, show borrowed books and return any borrowed book.
+All the above by means of object oriented programming.
+
+El código simula el servicio de una biblioteca donde se pueden agregar libros, eliminar, mostrar los
+libros disponibles, pedir prestados, mostrar los libros prestados y devolver algún libro prestado.
+Todo lo anterior por medio de la programación orientada a objetos.

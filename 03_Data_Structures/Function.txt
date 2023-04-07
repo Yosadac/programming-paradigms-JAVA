@@ -1,11 +1,8 @@
-The code is a data structure of a class called Dog with the attributes age, breed, 
-weight and height. From this, another structure called Tiburon is created, which inherits 
-the attributes of the dog class and the weight attribute is added. 
-From there, only these structures are created and the data of each attribute is added to 
-print it on the screen.
+The code is a data structure of a class called Student with the attributes name, age, and report card. 
+From this, an Arraylist of this same template is created to be able to enter several students through 
+a loop, and then show all the students entered with the help of another loop. 
 
-El código es una estructura de datos de una clase llamada Perro con los atributos edad, raza,
-peso y estatura. A partir de esta se crea otro estructura llamada Tiburon la cual hereda los atributos
-de la clase perro y se le agrega el atributo peso. 
-A partir de ahí solo se crean dichas estructuras y se le agregan los datos de cada atributo para 
-posteriormente imprimirlo en pantalla. 
+El código es una estructura de datos de una clase llamada Estudiante con los atributos nombre, edad,
+y boleta. A partir de esta se crea un Arraylist de esta misma plantilla para poder ingresar varios 
+estudiantes por medio de un bucle, para así posteriormente mostrar todos los estudiantes ingresados
+con ayuda de otro bucle. 
